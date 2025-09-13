@@ -30,4 +30,4 @@
 ![HTML](https://img.shields.io/badge/-HTML-0d0015?style=for-the-badge&logo=html5&labelColor=0d0015&logoColor=FF0000)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0d0015?style=for-the-badge&logo=css&logoColor=FF00FF&labelColor=0d0015)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d0015&height=120&section=footer"/>
